@@ -1,4 +1,4 @@
-/*Adam Montgomery Lab 5 10/19/2020*/
+
 #include<stdio.h>
 
 int main()
